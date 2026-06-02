@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" color="#1A1A18" role="img" aria-label="Seasons Property Holdings single-color monogram">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&amp;display=swap');
+      .ring { fill:none; stroke:currentColor; stroke-width:5; stroke-linecap:round; }
+      .s { font-family:'Fraunces', Georgia, serif; font-weight:600; font-size:66px; fill:currentColor; }
+    </style>
+  </defs>
+  <!-- One ink. Heavier strokes so the mark holds at favicon sizes. -->
+  <path class="ring" d="M109.51 66.96 A50 50 0 0 1 66.96 109.51"/>
+  <path class="ring" d="M53.04 109.51 A50 50 0 0 1 10.49 66.96"/>
+  <path class="ring" d="M10.49 53.04 A50 50 0 0 1 53.04 10.49"/>
+  <path class="ring" d="M66.96 10.49 A50 50 0 0 1 109.51 53.04"/>
+  <text class="s" x="60" y="60" text-anchor="middle" dominant-baseline="central">S</text>
+</svg>

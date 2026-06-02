@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 330" role="img" aria-label="Seasons Property Holdings stacked lockup">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&amp;family=Jost:wght@400&amp;display=swap');
+      .ring { fill:none; stroke:#1A1A18; stroke-width:4; stroke-linecap:round; }
+      .ring--clay { stroke:#C4673D; }
+      .s { font-family:'Fraunces', Georgia, serif; font-weight:500; font-size:66px; fill:#1A1A18; }
+      .word { font-family:'Fraunces', Georgia, serif; font-weight:500; font-size:54px; fill:#1A1A18; letter-spacing:0.5px; }
+      .sub { font-family:'Jost','Helvetica Neue',Arial,sans-serif; font-weight:400; font-size:16px;
+             fill:#1A1A18; letter-spacing:7px; }
+      .rule { stroke:#C4673D; stroke-width:1.5; }
+    </style>
+  </defs>
+
+  <!-- Monogram, centered -->
+  <g transform="translate(120,16)">
+    <path class="ring"      d="M109.51 66.96 A50 50 0 0 1 66.96 109.51"/>
+    <path class="ring"      d="M53.04 109.51 A50 50 0 0 1 10.49 66.96"/>
+    <path class="ring"      d="M10.49 53.04 A50 50 0 0 1 53.04 10.49"/>
+    <path class="ring ring--clay" d="M66.96 10.49 A50 50 0 0 1 109.51 53.04"/>
+    <text class="s" x="60" y="60" text-anchor="middle" dominant-baseline="central">S</text>
+  </g>
+
+  <text class="word" x="180" y="220" text-anchor="middle">Seasons</text>
+  <line class="rule" x1="120" y1="244" x2="240" y2="244"/>
+  <text class="sub"  x="184" y="272" text-anchor="middle">PROPERTY HOLDINGS</text>
+</svg>
